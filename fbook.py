@@ -6,7 +6,6 @@ except ModuleNotFoundError:
   os.system("pip install random")
   os.system('pip install requests')
   os.system('clear')
-from user_agent import generate_user_agent
 logo2 = "Telegram : @Xinject\nCopyright ⓒ Xinject"
 logo = pyfiglet.figlet_format('Xinjct',font='alligator')
 print("\n"+logo)
